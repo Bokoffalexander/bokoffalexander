@@ -3,7 +3,8 @@ http://3vb.ru:4753/
 # Houston сайт HTML-CSS
 # Go реализации HTTP-клиента и сервера
 
-(Houston created in 31 August 2021)
+(Houston created in 31 Aug. 2021)
+(Http-Server go created in 10 Feb. 2024)
 
 tpl — переменная уровня пакета, 
 которая указывает на определение шаблона 
