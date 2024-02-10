@@ -1,5 +1,3 @@
-http://3vb.ru:4753/
-
 # Houston сайт HTML-CSS
 # Go реализации HTTP-клиента и сервера
 
